@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "node_modules"
+  ],
+  "env": {
+    "PORT": "3000",
+    "HOST": "http://localhost"
+  }
+}
